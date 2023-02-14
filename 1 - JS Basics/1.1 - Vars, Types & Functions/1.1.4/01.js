@@ -4,6 +4,8 @@
 
 // 👆🏻
 
+function multiply (value1* value2);
+
 const value1 = multiply(1, 1);
 const value2 = multiply(2, 2);
 
