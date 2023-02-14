@@ -13,4 +13,4 @@ console.log (user.age);
 
 // y muestra el objeto por consola
 
-console.log (user);
+console.log (user); // muestra { name: 'Juan', age: 36, city: 'Valencia' }
