@@ -3,10 +3,12 @@
 
 // 👇🏻 Define aquí tu función
 
+function sayHi ("HOLA");
+
 // 👆🏻
 sayHi('Jon');
 // 👇🏻 Añade aqui otra invocación con tu nombre
-
+sayHi('Suri);
 // 👆🏻
 
 // ✅  => HOLA Jon
