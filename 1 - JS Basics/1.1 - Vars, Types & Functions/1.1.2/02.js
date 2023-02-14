@@ -6,8 +6,11 @@ const x1 = 2;
 const x2 = 7;
 
 // 👇🏻 Tendrás que almacenar el valor de la comparación aquí modificando estas líneas
-const x1Comparation = false;
-const x2Comparation = false;
+const x1Comparation = x1 > 5;
+const x2Comparation = x2 > 5;
 // 👆🏻
 
 console.log(x1Comparation, x2Comparation);
+
+
+// La variable x1Comparison contendrá false ya que el valor de x1 es menor que 5, mientras que x2Comparison contendrá true ya que el valor de x2 es mayor que 5. 
